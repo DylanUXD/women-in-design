@@ -1,0 +1,57 @@
+body {
+    background: #f7f7f7;
+    color: #333333;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 300;
+}
+
+section, header {
+    width: 80%;
+    max-width: 800px;
+    margin: auto;
+}
+
+section, header {
+    margin-bottom: 5rem;
+}
+
+header h1, h2, blockquote {
+    font-family: "Playfair Display", serif;
+    color: #795832;
+}
+
+header h1 {
+    font-size: 4.768rem;
+    line-height: 1;
+    color: #AD8200;
+    margin: 5rem 0 1rem 0;
+}
+
+h2 {
+    font-size: 1.562rem;
+}
+
+header h2 {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 300;
+    color: #333333;
+    font-style: oblique;
+    margin-bottom: 3rem;
+}
+
+p {
+    line-height: 1.6;
+}
+
+header p {
+    font-size: 1.250rem;
+    font-family: "Playfair Display", serif;
+    color: #795832;
+}
+
+blockquote {
+    font-style: italic;
+    font-size: 1.3rem;
+    hanging-punctuation: first;
+    text-indent: -0.3rem;
+}
