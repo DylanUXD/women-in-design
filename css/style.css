@@ -16,7 +16,7 @@ section, header {
 }
 
 header h1, h2, blockquote {
-    font-family: "Playfair Display", serif;
+    font-family: "Cardo", serif;
     color: #795832;
 }
 
@@ -45,7 +45,7 @@ p {
 
 header p {
     font-size: 1.250rem;
-    font-family: "Playfair Display", serif;
+    font-family: "Cardo", serif;
     color: #795832;
 }
 
