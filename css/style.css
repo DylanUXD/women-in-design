@@ -17,13 +17,13 @@ section, header {
 
 header h1, h2, blockquote {
     font-family: "Cardo", serif;
-    color: #795832;
+    color: #865900;
 }
 
 header h1 {
-    font-size: 4.768rem;
+    font-size: 3.815rem;
     line-height: 1;
-    color: #AD8200;
+    color: #BD8800;
     margin: 5rem 0 1rem 0;
 }
 
@@ -46,7 +46,7 @@ p {
 header p {
     font-size: 1.250rem;
     font-family: "Cardo", serif;
-    color: #795832;
+    color: #865900;
 }
 
 blockquote {
