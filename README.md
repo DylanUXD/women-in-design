@@ -1,6 +1,6 @@
 # women-in-design
 
-[Version 1](https://dylanuxd.github.io/women-in-design/)
+[Version 1](https://dylanuxd.github.io/women-in-design/greiman)
 *10th November 2025*
 Initial HTML formatting for content
 
@@ -12,6 +12,6 @@ Added CSS styling to content
 *30th November 2025*
 Added CSS navigation
 
-[Version 4](https://dylanuxd.github.io/women-in-design/april_greiman)
+[Version 4](https://dylanuxd.github.io/women-in-design/index)
 *8th December 2025*
 Reworked CSS + HTML & added Index Page and Images
